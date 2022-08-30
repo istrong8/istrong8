@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @istrong8
-- 👀 I’m interested in Python, C++, FORTRAN and Software Dvelopment.
+- 👀 I’m interested in Python, C++, FORTRAN, LaTex and Software Dvelopment.
 - 🌱 I’m currently learning OpenFOAM
 - 💞️ I’m looking to collaborate on Nuclear Projects
 - 📫 How to reach me irastrong3@gmail.com
